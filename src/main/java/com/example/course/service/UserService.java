@@ -1,4 +1,4 @@
-package service;
+package com.example.course.service;
 
 import com.example.course.entities.User;
 import com.example.course.repository.UserRepository;

@@ -1,9 +1,10 @@
-package controller;
+package com.example.course.controller;
 
 import com.example.course.entities.User;
+import com.example.course.service.UserService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import service.UserService;
 
 import java.util.Optional;
 
